@@ -1,3 +1,6 @@
+<!-- workshop-header -->
+<img width="1347" height="127" alt="Coding Thailand 2026 header" src="https://github.com/user-attachments/assets/ba5cf267-f460-4fb0-b69b-c461ae061a3b" />
+
 # 📅 Day 1 Schedule — Edge AI Workshop (6 ชั่วโมง)
 
 > **เป้าหมาย:** ทุกทีมจบวันด้วย Model V2 + Prediction Log + Idea Canvas พร้อมไป Prototype Day
