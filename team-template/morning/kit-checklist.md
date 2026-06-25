@@ -11,7 +11,7 @@
 | # | อุปกรณ์ | จำนวน | ได้รับ | สภาพโอเค |
 |---|---------|:-----:|:------:|:--------:|
 | 1 | Arduino **UNO Q** | 1 | [/] | [ ] |
-| 2 | **Modulino** (7 ตัว: Movement, Distance, Thermo, Buttons, Knob, Pixels, Buzzer) | 7 | [ ] | [ ] |
+| 2 | **Modulino** (7 ตัว: Movement, Distance, Thermo, Buttons, Knob, Pixels, Buzzer) | 7 | [/] | [ ] |
 | 3 | สาย **Qwiic** (เชื่อม Modulino) | 7 | [/] | [ ] |
 | 4 | สาย **USB-C** (เชื่อมบอร์ด ↔ คอม) | 1 | [/] | [ ] |
 | 5 | **Adapter USB-C** (จ่ายไฟ 5V/3A) | 1 | [/] | [ ] |
