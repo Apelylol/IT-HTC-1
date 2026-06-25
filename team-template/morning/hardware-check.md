@@ -25,6 +25,6 @@
 ## Challenge (ถ้าทำ)
 
 - [/] A — Proximity Alarm (sensor → buzzer)
-- [] B — เก็บ Movement เป็น CSV ไว้เทรนบ่าย (ไฟล์อยู่ที่: _______________)
+- [/] B — เก็บ Movement เป็น CSV ไว้เทรนบ่าย (ไฟล์อยู่ที่ asset/challengeB)
 
 **ติดอะไรตอนต่อ + แก้ยังไง (ถ้ามี):** _______________
