@@ -42,7 +42,7 @@
 
 ## ต้องส่งให้ครบ
 
-- [ ] `team-template/morning/hardware-check.md` — input 3 ตัว + รูป
+- [/] `team-template/morning/hardware-check.md` — input 3 ตัว + รูป
 - [ ] `team-template/afternoon/model.md` — EI link + accuracy + F1 + confusion matrix
 - [ ] `team-template/afternoon/predictions.csv` — ≥10 cases
 - [ ] รูป/คลิป model รันบนบอร์ด ใน `team-template/assets/`
